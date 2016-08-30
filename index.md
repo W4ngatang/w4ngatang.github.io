@@ -4,12 +4,12 @@ title: Alex Wang
 subtitle: About Me
 ---
 
-My name is Alex Wang. I'm an undergrad at Harvard University studying applied math and computer science.
+My name is Alex Wang. I'm an undergrad at Harvard University studying applied math and computer science. I'm interested in artificial intelligence and natural language processing.
 
 ### My History
 
 - Summer '16: [Center for the Study of Language and Information](https://www-csli.stanford.edu/), Stanford University. Submitted "Learning Linguistic Descriptors of User ROles in Online Communities" to [NLP+CSS](https://sites.google.com/site/nlpandcss/nlpcss-at-emnlp-2016) at EMNLP 2016.
-- Summer '15: Microsoft, Azure Machine Learning. Published R package for interfacing with Microsoft Azure ([more info](http://blogs.technet.com/b/machinelearning/archive/2015/09/25/build-and-deploy-a-predictive-web-app-using-rstudio-and-azure-ml.aspx)).
+- Summer '15: Microsoft, Azure Machine Learning. Published [R package](https://cran.r-project.org/web/packages/AzureML/index.html) for interfacing with Microsoft Azure ([more info](http://blogs.technet.com/b/machinelearning/archive/2015/09/25/build-and-deploy-a-predictive-web-app-using-rstudio-and-azure-ml.aspx)).
 - Summer '14: [Endeavour Partners](http://endeavourpartners.net/)
 
 ### Classwork
