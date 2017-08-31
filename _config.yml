@@ -35,9 +35,9 @@ avatar: "/img/self.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Alex Wang
-  email: "alexwang@college.harvard.edu"
+  email: "wang.alex.c@gmail.com"
   github: w4ngatang # eg. daattali
-  linkedin: yourname  # eg. daattali
+  linkedin: alex-wang-12283785 # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -46,7 +46,7 @@ footer-links-active:
   email: true
   twitter: false
   github: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   instagram: false

@@ -4,16 +4,17 @@ title: Alex Wang
 subtitle: About Me
 ---
 
-My name is Alex Wang. I'm an undergrad at Harvard University studying applied math and computer science. I'm interested in artificial intelligence and natural language processing.
+My name is Alex. I'm a first year PhD student at NYU studying computer science, specifically machine learning for natural language and vision. I am advised by Kyunghyung Cho and Sam Bowman. I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science. I'm currently interested in deep learning for natural language processing.
 
-### My History
+### Experience
 
 - Summer '16: [Center for the Study of Language and Information](https://www-csli.stanford.edu/), Stanford University. Submitted ["Learning Linguistic Descriptors of User Roles in Online Communities"](http://www.aclweb.org/anthology/W/W16/W16-5610.pdf) to [NLP+CSS](https://sites.google.com/site/nlpandcss/nlpcss-at-emnlp-2016) at EMNLP 2016.
 - Summer '15: Microsoft, Azure Machine Learning. Published [R package](https://cran.r-project.org/web/packages/AzureML/index.html) for interfacing with Microsoft Azure ([more info](http://blogs.technet.com/b/machinelearning/archive/2015/09/25/build-and-deploy-a-predictive-web-app-using-rstudio-and-azure-ml.aspx)).
 - Summer '14: [Endeavour Partners](http://endeavourpartners.net/)
 
-### Classwork
+### Coursework
 
+- Spring '17
 - Fall '16: CS 263 (Systems Security), STAT 210 (Probability I), CS299r (Special Topics in Computer Science), ER 18 (Classical Chinese Ethical and Political Thinking) 
 - Spring '16: AM 221 (Advanced Optimization), CS 229r (Information Theory in Computer Science), CS 287 (Statistical Natural Language Processing), MUSIC 2 (Foundations of Tonal Music I)
 - Fall '15: CS 91r (Supervised Reading and Research), CS 281 (Advanced Machine Learning), CS 283 (Computer Vision), ENGLISH CWFR (Introductory Fiction Workshop), MATH 122 (Algebra I: Theory of Groups and Vector Spaces)
