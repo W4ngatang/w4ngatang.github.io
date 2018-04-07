@@ -4,7 +4,7 @@ title: Alex Wang
 subtitle: About Me
 ---
 
-My name is Alex. I am a PhD student at NYU studying computer science, focusing on machine learning for natural language and vision. I am advised by Professors [Kyunghyung Cho](http://www.kyunghyuncho.me/) and [Sam Bowman](https://www.nyu.edu/projects/bowman/). I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science.
+My name is Alex. I am a PhD student at NYU studying computer science, focusing on machine learning for natural language and vision. I am advised by Professors [Kyunghyun Cho](http://www.kyunghyuncho.me/) and [Sam Bowman](https://www.nyu.edu/projects/bowman/). I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science.
 
 ### Professional History
 
