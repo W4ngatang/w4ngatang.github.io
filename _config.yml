@@ -17,7 +17,7 @@ baseurl: ""
 title: Alex Wang
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Academic Page
 
 # --- Navigation bar options --- #
 
@@ -35,18 +35,19 @@ avatar: "/img/self.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Alex Wang
-  email: "wang.alex.c@gmail.com"
+  email: "wang.alex.c at gmail.com"
   github: w4ngatang # eg. daattali
-  linkedin: alex-wang-12283785 # eg. daattali
+  twitter: w4ngatang
+  # linkedin: alex-wang-12283785 # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   github: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   instagram: false
@@ -57,12 +58,12 @@ share-links-active:
   twitter: false
   facebook: false
   google: false
-  linkedin: true
+  linkedin: false
   github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "awang.io"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "awang.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
