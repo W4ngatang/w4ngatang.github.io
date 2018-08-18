@@ -11,11 +11,11 @@ See my [CV](/static/CV-08-18-2018.pdf), [Google Scholar](https://scholar.google.
 
 ### Publications
 
-[GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://arxiv.org/abs/1804.07461). \
-Alex Wang, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman. arXiV preprint. \
+[GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://arxiv.org/abs/1804.07461). <br/>
+Alex Wang, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman. arXiV preprint. <br/>
 See also: [gluebenchmark.com](https://gluebenchmark.com/).
 
-[Learning Linguistic Descriptors of User Roles in Online Communities](http://www.aclweb.org/anthology/W16-5610). \
+[Learning Linguistic Descriptors of User Roles in Online Communities](http://www.aclweb.org/anthology/W16-5610). <br/>
 Alex Wang, William L. Hamilton, Jure Leskovec.  NLP+CSS Workshop.
 
 ### Other Projects
