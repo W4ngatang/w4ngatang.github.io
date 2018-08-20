@@ -4,7 +4,7 @@ title: Applying to Grad School
 tags: [grad-school]
 ---
 
-# Who This is For
+# Applying to Grad School
 
 This blog post is intended for people interested that have already decided to apply to graduate school (PhD programs) or are generally interested in seeing what the process entails.
 
