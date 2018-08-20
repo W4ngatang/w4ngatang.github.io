@@ -24,6 +24,7 @@ description: Academic Page
 # List of links in the navigation bar
 navbar-links:
     #  About Me: "aboutme"
+    Blog: "blog"
     Notes:
         - Grad School: "posts/2018-08-19-grad-school"
 
