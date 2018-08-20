@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Alex Wang
-subtitle: About Me
 ---
 
 I am a PhD student at New York University studying computer science, focusing on machine learning for natural language.
