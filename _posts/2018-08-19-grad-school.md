@@ -42,21 +42,21 @@ To find an initial candidate set of places you might consider applying to, I wou
 After gathering an initial list of places you are interested in, you will likely need to winnow down your list. In doing so, I would keep in mind the following factors:
 
 - *Researcher fit*: as the main reason to you should want to attend grad school is to do research, the type of research done at an institution should be the prime consideration in deciding whether or not to apply there. I think research fit includes the following:
-
-    - _Timing_: Is the PI taking students? For various reasons (too many students already, taking a sabbatical, etc.), professors won't be taking students for a PhD application cycle. In such cases, professors are usually good about posting that they are no longer taking students. If you are ever unsure, email the professor or one or their group members for clarification.
-
-    - _Research areas_: are the faculty at this institution doing research you are interested in? Skim their recent papers (usually listed on their academic sites; if not, try Google Scholar). Are the titles and abstracts exciting to you? This factor is the most important one: if you work a faculty, it's unlikely you are going to do drastically different research from what they are currently doing. So if you aren't interested in their work, don't apply.
-
-    - _PI career stage_: at what career stage is the PI? Broadly speaking, researchers earlier in their career are more hands-on, while more senior researchers are less hands-on and are more established.
  
+    - _Timing_: Is the PI taking students? For various reasons (too many students already, taking a sabbatical, etc.), professors won't be taking students for a PhD application cycle. In such cases, professors are usually good about posting that they are no longer taking students. If you are ever unsure, email the professor or one or their group members for clarification.
+ 
+    - _Research areas_: are the faculty at this institution doing research you are interested in? Skim their recent papers (usually listed on their academic sites; if not, try Google Scholar). Are the titles and abstracts exciting to you? This factor is the most important one: if you work a faculty, it's unlikely you are going to do drastically different research from what they are currently doing. So if you aren't interested in their work, don't apply.
+ 
+    - _PI career stage_: at what career stage is the PI? Broadly speaking, researchers earlier in their career are more hands-on, while more senior researchers are less hands-on and are more established.
+   
     In practice what this difference means is that early-career mentors will likely push harder to publish work and will check-in with students more frequently to make that happen. They also might have their own set of projects that they want their students to work on, which might be good if you are broadly interested in an area but don't have a clear enough view of the field to know what is interesting or impactful to work on. On the flip side, this might mean you have less time to work on what is personally interesting to you, if those interests don't align with the mentor's projects.
   
     Working with a PI later in their career has the benefit that their name and reputation is more widely recognized, meaning they likely have more and more flexible funding, and have stronger connections to other researchers in the field (which can be useful when you are searching for internships or jobs). The tradeoff is that there might be less pressure from the PI to publish and you might receive less attention, as more senior researchers have more outside obligations (giving talks, organizing events, etc.).
- 
+   
     Do note that the aforementioned differences are generalities, and may not be true of a particular lab. The best way to know about the nature of a particular PI or their group is to talk to members of that group.
  
     - _Size of group_: how large is the PI's group, including PhD students, postdocs, master's students, and possibly undergrads? A small group is around five PhD students (per PI, in cases of joint advising) with one or two postdocs, which averages out to about one PhD student per year. A large group would consist of around 2 or more PhD students per PI per year, plus postdocs.
- 
+   
     PhD students are usually the main focus of a PI's mentoring, but generally a larger group means that you will receive less individual attention. On the other hand, a large group means more opportunity to collaborate and receive guidance, particularly from postdocs and more senior students (though they will likely be learning how to properly mentor).
 
 - *Research quality*: all else equal, you of course want to be doing the best and most impactful research you can. The institution you go to and people you work with will have a large effect on that. Again, I think the best signal of research quality of a group is to read their papers and see if you like and respect their work. Early on, though, it can be difficult to judge the quality of a paper. In that case, some other signals of research quality include:
@@ -72,7 +72,7 @@ After gathering an initial list of places you are interested in, you will likely
 - *Institutional Factors*:
 
     - _Number of faculty_: how many faculty are at the institution doing research you are interested in? Computer science faculty are in a fairly unique position of constantly being courted by industry and other non-academic organizations. If an advisor leaves for another institution, their students might have an option to move with them, but otherwise the students would need to find a new advsior. Even if a faculty takes an industry position and does not officially leave the university, that still translates to decreased attention for their grad students and mentees.
-     
+    
     Having more than one faculty that you would be interested in working with at an institution is generally useful. Even if the faculty don't seem liable to leave, having a backup in case things don't pan out with the main researcher you are interested in working with is handy. In the best case, you can be co-advised by two faculty whose work you are both interested in and do some interdisciplinary work.
 
     - _Intra-university differences_: this is not a reason to apply / not apply to a university, so much as possible university-specific quirks worth being aware of. For example, for someone applying to New York University for NLP programs, there are three different departments that one might apply to: Computer Science (Courant), Computer Science Engineering (Tandon) and a new Center for Data Science doing similar work to both. The differences between departments vary between institutions and can range from different course requirements, access to faculty (either physical, e.g. they located in distant buildings and it is difficult to collaborate, or administratively, e.g. you are only allowed to work with faculty in your department). It is worth being aware of these differences and contacting people at the university if they are unclear.
