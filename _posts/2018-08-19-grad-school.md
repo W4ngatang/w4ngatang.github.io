@@ -42,31 +42,18 @@ To find an initial candidate set of places you might consider applying to, I wou
 After gathering an initial list of places you are interested in, you will likely need to winnow down your list. In doing so, I would keep in mind the following factors:
 
 - *Researcher fit*: as the main reason to you should want to attend grad school is to do research, the type of research done at an institution should be the prime consideration in deciding whether or not to apply there. I think research fit includes the following:
- 
     - _Timing_: Is the PI taking students? For various reasons (too many students already, taking a sabbatical, etc.), professors won't be taking students for a PhD application cycle. In such cases, professors are usually good about posting that they are no longer taking students. If you are ever unsure, email the professor or one or their group members for clarification.
- 
     - _Research areas_: are the faculty at this institution doing research you are interested in? Skim their recent papers (usually listed on their academic sites; if not, try Google Scholar). Are the titles and abstracts exciting to you? This factor is the most important one: if you work a faculty, it's unlikely you are going to do drastically different research from what they are currently doing. So if you aren't interested in their work, don't apply.
- 
     - _PI career stage_: at what career stage is the PI? Broadly speaking, researchers earlier in their career are more hands-on, while more senior researchers are less hands-on and are more established.  
-   
     In practice what this difference means is that early-career mentors will likely push harder to publish work and will check-in with students more frequently to make that happen. They also might have their own set of projects that they want their students to work on, which might be good if you are broadly interested in an area but don't have a clear enough view of the field to know what is interesting or impactful to work on. On the flip side, this might mean you have less time to work on what is personally interesting to you, if those interests don't align with the mentor's projects.  
-  
     Working with a PI later in their career has the benefit that their name and reputation is more widely recognized, meaning they likely have more and more flexible funding, and have stronger connections to other researchers in the field (which can be useful when you are searching for internships or jobs). The tradeoff is that there might be less pressure from the PI to publish and you might receive less attention, as more senior researchers have more outside obligations (giving talks, organizing events, etc.).  
-   
     Do note that the aforementioned differences are generalities, and may not be true of a particular lab. The best way to know about the nature of a particular PI or their group is to talk to members of that group.
- 
     - _Size of group_: how large is the PI's group, including PhD students, postdocs, master's students, and possibly undergrads? A small group is around five PhD students (per PI, in cases of joint advising) with one or two postdocs, which averages out to about one PhD student per year. A large group would consist of around 2 or more PhD students per PI per year, plus postdocs.  
-   
     PhD students are usually the main focus of a PI's mentoring, but generally a larger group means that you will receive less individual attention. On the other hand, a large group means more opportunity to collaborate and receive guidance, particularly from postdocs and more senior students (though they will likely be learning how to properly mentor).
-
 - *Research quality*: all else equal, you of course want to be doing the best and most impactful research you can. The institution you go to and people you work with will have a large effect on that. Again, I think the best signal of research quality of a group is to read their papers and see if you like and respect their work. Early on, though, it can be difficult to judge the quality of a paper. In that case, some other signals of research quality include:
-
     - _Student publishing_: how often and where are the students of the group publishing? Are you faimilar with their work? Publishing one high-quality paper at a major conference per year is about average for machine learning (though the pace of publishing has increased to the point where it's not uncommon to publish to two or more conferences per year, I am not convinced that people are actually doing twice as much work).
-
     - _Student outcomes_: think about where you want to end up in five-ish years careerwise; where do the students of this lab end up? Most lab websites will list alumni and what they went on to do. Skim those lists and see if graduates go on to career paths similar to what you would like to do in the future.
-
     - _Faculty and student awards_: an obvious signal of high-quality work is awards and fellowships earned by the principal researcher and other members of the group. Although these are nice-to-haves, don't weigh it against a group if they lacked community awards, since only a handful of people earn awards despite the fact that hundreds of researchers are consistently doing high-quality and interesting work every year. 
-
     - _Citation metrics_: how often is the group's work cited? The easiest way to check citation metrics is to go to a researcher's Google Scholar page. I would again caution you from weighing this factor too heavily. A high number of citations (~50+ is pretty good for machine learning papers) is a clear positive signal, but a lack of citations is not necessarily a bad signal.
 
 - *Institutional Factors*:
