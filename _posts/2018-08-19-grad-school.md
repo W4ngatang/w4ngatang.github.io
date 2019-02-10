@@ -136,12 +136,12 @@ The main benefits of fellowships are prestige and money. The benefit of prestige
 
 Beyond the benefits of fellowships themselves, I found that because fellowship applications are often a month or two before grad school deadlines and often require similar application materials, they make for a good impetus for you to prepare your application materials well in advance of the more serious grad school deadlines.
 
-The following is a list of standard fellowships to consider applying to. Note that some (many) of these fellowships are for U.S. citizens only. If you are not a U.S. citizen, you should investigate fellowships from your home country or less stringent  fellowships.
-- [NSF Graduate Research Fellowship Program]()
-- [NDSEG]()
-- [Hertz]()
-- [DOE CSGF]()
-- [Soros]()
+The following is a list of standard fellowships to consider applying to. Note that some (many) of these fellowships are for U.S. citizens only. If you are not a U.S. citizen, you should investigate fellowships from your home country or less stringent fellowships.
+- [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/)
+- [NDSEG](https://ndseg.asee.org/)
+- [Hertz](http://hertzfoundation.org/)
+- [DOE CSGF](https://www.krellinst.org/csgf/)
+- [Soros](https://www.pdsoros.org/)
 
 
 ## Links to Other Resources

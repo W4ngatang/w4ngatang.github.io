@@ -11,13 +11,23 @@ See my [CV](/static/CV-08-18-2018.pdf), [Google Scholar](https://scholar.google.
 
 ### Publications
 
+**Looking for ELMO's Friends: Sentence-Level Pretraining Beyond Language Modeling** <br/>
+Samuel R. Bowman, Ellie Pavlick, Edourd Grave, Benjamin Van Durme, **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen <br/>
+arXiv preprint. <br/>
+\[[paper](https://arxiv.org/abs/1812.10860)\]
+
 **GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding** <br/>
-Alex Wang, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman. <br/>
-arXiV preprint. <br/>
+**Alex Wang**, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman. <br/>
+ICLR 2019. <br/>
 \[[paper](https://arxiv.org/abs/1804.07461)\] \[[site](https://gluebenchmark.com/)\]
 
+**What do you learn from context? Probing for sentence structure in contextualized word representations** <br/>
+Ian Tenney, Patrick Xia, Berlin Chen, **Alex Wang**, Adam Poliak, Benjamin Van Durme, Sam Bowman, Dipanjan Das, Ellie Pavlick. <br/>
+ICLR 2019. <br/>
+\[[paper](https://openreview.net/forum?id=SJzSgnRcKX)\]
+
 **Learning Linguistic Descriptors of User Roles in Online Communities** <br/>
-Alex Wang, William L. Hamilton, Jure Leskovec.  <br/>
+**Alex Wang**, William L. Hamilton, Jure Leskovec.  <br/>
 NLP+CSS Workshop. <br/>
 \[[paper](https://arxiv.org/abs/1804.07461)\]
 
