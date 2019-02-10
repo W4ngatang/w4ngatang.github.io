@@ -9,6 +9,12 @@ I am jointly advised by Professors [Sam Bowman](https://www.nyu.edu/projects/bow
 I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science, where I was advised by [Alexander Rush](http://nlp.seas.harvard.edu/rush.html) and spent time with the [Harvard Natural Language Processing](http://nlp.seas.harvard.edu/) group.
 See my [CV](/static/CV-08-18-2018.pdf), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ), [GitHub](https://github.com/W4ngatang) for more details.
 
+### News
+
+We are currently soliciting feedback (especially proposals of tasks to include, but also comments and concerns) for the next version of GLUE.
+More details [here](https://docs.google.com/document/d/1y5Yc5tTumKw-3Rt6Sb_ESh_JUjPu28iTL9Fat-uNb-4).
+Please don't hesitate to reach out!
+
 ### Publications
 
 **Looking for ELMO's Friends: Sentence-Level Pretraining Beyond Language Modeling** <br/>
