@@ -7,7 +7,7 @@ use-site-title: true
 I am a PhD student at New York University studying computer science, focusing on machine learning for natural language.
 I am jointly advised by Professors [Sam Bowman](https://www.nyu.edu/projects/bowman/) and [Kyunghyun Cho](http://www.kyunghyuncho.me/), and am part of the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group at NYU.
 I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science, where I was advised by [Alexander Rush](http://nlp.seas.harvard.edu/rush.html) and spent time with the [Harvard Natural Language Processing](http://nlp.seas.harvard.edu/) group.
-See my [CV](/static/CV-08-18-2018.pdf), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ), [GitHub](https://github.com/W4ngatang) for more details.
+See my [CV](/static/CV.pdf), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ), [GitHub](https://github.com/W4ngatang) for more details.
 
 ### News
 
@@ -34,7 +34,7 @@ ICLR 2019. <br/>
 
 **Learning Linguistic Descriptors of User Roles in Online Communities** <br/>
 **Alex Wang**, William L. Hamilton, Jure Leskovec.  <br/>
-NLP+CSS Workshop. <br/>
+NLP+CSS Workshop @ EMNLP 2016. <br/>
 \[[paper](https://arxiv.org/abs/1804.07461)\]
 
 ### Other Projects
