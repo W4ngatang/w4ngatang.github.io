@@ -8,6 +8,7 @@ I am a PhD student at New York University studying computer science, focusing on
 I am jointly advised by Professors [Sam Bowman](https://www.nyu.edu/projects/bowman/) and [Kyunghyun Cho](http://www.kyunghyuncho.me/), and am part of the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group at NYU.
 I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science, where I was advised by [Alexander Rush](http://nlp.seas.harvard.edu/rush.html) and spent time with the [Harvard Natural Language Processing](http://nlp.seas.harvard.edu/) group.
 See my [CV](/static/CV.pdf), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ), [GitHub](https://github.com/W4ngatang) for more details.
+If you need to contact me, email me at wangalexc _at_ gmail or message me on [Twitter](https://twitter.com/W4ngatang).
 
 ### News
 
