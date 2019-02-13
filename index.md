@@ -16,7 +16,12 @@ We are currently soliciting feedback (especially proposals of tasks to include, 
 More details [here](https://docs.google.com/document/d/1y5Yc5tTumKw-3Rt6Sb_ESh_JUjPu28iTL9Fat-uNb-4).
 Please don't hesitate to reach out!
 
-### Publications
+### Papers
+
+**Bert has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model** <br/>
+**Alex Wang**, Kyunghyun Cho <br/>
+Technical report. <br/>
+\[[paper](https://arxiv.org/abs/1902.04094)\] \[[demo](https://colab.research.google.com/drive/1MxKZGtQ9SSBjTK5ArsZ5LKhkztzg52RV)\]
 
 **Looking for ELMO's Friends: Sentence-Level Pretraining Beyond Language Modeling** <br/>
 Samuel R. Bowman, Ellie Pavlick, Edourd Grave, Benjamin Van Durme, **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen <br/>
