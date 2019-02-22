@@ -23,8 +23,13 @@ Please don't hesitate to reach out!
 Technical report. <br/>
 \[[paper](https://arxiv.org/abs/1902.04094)\] \[[demo](https://colab.research.google.com/drive/1MxKZGtQ9SSBjTK5ArsZ5LKhkztzg52RV)\]
 
+**On Measuring Social Biases in Sentence Encoders** <br/>
+Chandler May, **Alex Wang**, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger <br/>
+NAACL 201. <br>
+\[[paper]\]
+
 **Looking for ELMO's Friends: Sentence-Level Pretraining Beyond Language Modeling** <br/>
-Samuel R. Bowman, Ellie Pavlick, Edourd Grave, Benjamin Van Durme, **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen <br/>
+Samuel R. Bowman, Ellie Pavlick, Edouard Grave, Benjamin Van Durme, **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen <br/>
 arXiv preprint. <br/>
 \[[paper](https://arxiv.org/abs/1812.10860)\]
 
