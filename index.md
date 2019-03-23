@@ -25,7 +25,7 @@ Technical report. <br/>
 
 **On Measuring Social Biases in Sentence Encoders** <br/>
 Chandler May, **Alex Wang**, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger <br/>
-NAACL 201. <br>
+NAACL 2019. <br>
 \[[paper]\]
 
 **Looking for ELMO's Friends: Sentence-Level Pretraining Beyond Language Modeling** <br/>
