@@ -20,7 +20,7 @@ Please don't hesitate to reach out!
 
 **Bert has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model** <br/>
 **Alex Wang**, Kyunghyun Cho <br/>
-Technical report. <br/>
+NeuralGen 2019. <br/>
 \[[paper](https://arxiv.org/abs/1902.04094)\] \[[demo](https://colab.research.google.com/drive/1MxKZGtQ9SSBjTK5ArsZ5LKhkztzg52RV)\]
 
 **On Measuring Social Biases in Sentence Encoders** <br/>
