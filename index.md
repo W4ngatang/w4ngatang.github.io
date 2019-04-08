@@ -26,7 +26,7 @@ NeuralGen 2019. <br/>
 **On Measuring Social Biases in Sentence Encoders** <br/>
 Chandler May, **Alex Wang**, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger <br/>
 NAACL 2019. <br>
-\[[paper]\]
+\[[paper](https://arxiv.org/abs/1903.10561)\] \[[code](https://github.com/W4ngatang/sent-bias)\]
 
 **Looking for ELMO's Friends: Sentence-Level Pretraining Beyond Language Modeling** <br/>
 Samuel R. Bowman, Ellie Pavlick, Edouard Grave, Benjamin Van Durme, **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen <br/>
@@ -44,7 +44,7 @@ ICLR 2019. <br/>
 \[[paper](https://openreview.net/forum?id=SJzSgnRcKX)\]
 
 **Learning Linguistic Descriptors of User Roles in Online Communities** <br/>
-**Alex Wang**, William L. Hamilton, Jure Leskovec.  <br/>
+**Alex Wang**, William L. Hamilton, Jure Leskovec. <br/>
 NLP+CSS Workshop @ EMNLP 2016. <br/>
 \[[paper](https://arxiv.org/abs/1804.07461)\]
 
