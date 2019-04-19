@@ -50,9 +50,9 @@ NLP+CSS Workshop @ EMNLP 2016. <br/>
 
 ### Other Projects
 
-- [A Neural Framework for One-Shot Learning](https://github.com/W4ngatang/MatchingNets): thorough examination in the use of [matching networks](https://arxiv.org/abs/1606.04080), a neural network and nonparametric model hybrid, for one-shot learning in various settings. See [paper](/static/thesis.pdf) for more details. Completed for my senior thesis, earning high honors.
-- [Traffic Swarm Optimization](https://github.com/W4ngatang/TrafficSwarmOptimization): investigation in the use of swarm optimization methods for optimizing traffic light cycles. For more info see this [article](https://www.seas.harvard.edu/news/2016/06/ants-go-marching-on-to-optimize-traffic-lights) or this [writeup](/static/swarm-optimization-traffic.pdf).
-- [Gaussian Processes for Crime Prediction](https://github.com/kandluis/crime-prediction): an exploration into the use of Gaussian processes to predict future crime rates in cities. See the [writeup](/static/gaussian-processes-crime.pdf) for details.
+- [A Neural Framework for One-Shot Learning](https://github.com/W4ngatang/MatchingNets): thorough examination in the use of [matching networks](https://arxiv.org/abs/1606.04080), a neural network and nonparametric model hybrid, for one-shot learning in various settings. See [paper](/static/papers/thesis.pdf) for more details. Completed for my senior thesis, earning high honors.
+- [Traffic Swarm Optimization](https://github.com/W4ngatang/TrafficSwarmOptimization): investigation in the use of swarm optimization methods for optimizing traffic light cycles. For more info see this [article](https://www.seas.harvard.edu/news/2016/06/ants-go-marching-on-to-optimize-traffic-lights) or this [writeup](/static/papers/swarm-optimization-traffic.pdf).
+- [Gaussian Processes for Crime Prediction](https://github.com/kandluis/crime-prediction): an exploration into the use of Gaussian processes to predict future crime rates in cities. See the [writeup](/static/papers/gaussian-processes-crime.pdf) for details.
 - [Twitter Plays Chess](https://github.com/mgentili/TwitterPlaysChess): crowdsourced chess playing against an AI where users vote for the human team's next move via Twitter, &agrave; la Twitch Plays Pokemon.
 
 ### Miscellaneous
