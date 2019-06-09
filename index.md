@@ -18,34 +18,39 @@ Please don't hesitate to reach out!
 
 ### Papers
 
+**Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling** <br/>
+**Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman <br/>
+ACL 2019 <br/>
+\[[paper](https://arxiv.org/abs/1812.10860)\] \[[code](TODO)\]
+
 **Bert has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model** <br/>
 **Alex Wang**, Kyunghyun Cho <br/>
-NeuralGen 2019. <br/>
+NeuralGen 2019 <br/>
 \[[paper](https://arxiv.org/abs/1902.04094)\] \[[demo](https://colab.research.google.com/drive/1MxKZGtQ9SSBjTK5ArsZ5LKhkztzg52RV)\]
+
+**Probing What Different NLP Tasks Teach Machines about Function Word Comprehension** <br/>
+Najoung Kim, Roma Patel, Adam Poliak, **Alex Wang**, Patrick Xia, R. Thomas McCoy, Ian Tenney, Alexis Ross, Tal Linzen, Benjamin Van Durme, Sameul R. Bowman, Ellie Pavlick <br/>
+StarSem 2019 (Best Paper Award) <br/>
+\[[paper]()\] \[[code]()\]
 
 **On Measuring Social Biases in Sentence Encoders** <br/>
 Chandler May, **Alex Wang**, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger <br/>
-NAACL 2019. <br>
+NAACL 2019 <br/>
 \[[paper](https://arxiv.org/abs/1903.10561)\] \[[code](https://github.com/W4ngatang/sent-bias)\]
 
-**Looking for ELMO's Friends: Sentence-Level Pretraining Beyond Language Modeling** <br/>
-Samuel R. Bowman, Ellie Pavlick, Edouard Grave, Benjamin Van Durme, **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen <br/>
-arXiv preprint. <br/>
-\[[paper](https://arxiv.org/abs/1812.10860)\]
-
 **GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding** <br/>
-**Alex Wang**, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman. <br/>
-ICLR 2019. <br/>
+**Alex Wang**, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman <br/>
+ICLR 2019 <br/>
 \[[paper](https://arxiv.org/abs/1804.07461)\] \[[site](https://gluebenchmark.com/)\]
 
 **What do you learn from context? Probing for sentence structure in contextualized word representations** <br/>
-Ian Tenney, Patrick Xia, Berlin Chen, **Alex Wang**, Adam Poliak, Benjamin Van Durme, Sam Bowman, Dipanjan Das, Ellie Pavlick. <br/>
-ICLR 2019. <br/>
+Ian Tenney, Patrick Xia, Berlin Chen, **Alex Wang**, Adam Poliak, Benjamin Van Durme, Sam Bowman, Dipanjan Das, Ellie Pavlick <br/>
+ICLR 2019 <br/>
 \[[paper](https://openreview.net/forum?id=SJzSgnRcKX)\]
 
 **Learning Linguistic Descriptors of User Roles in Online Communities** <br/>
-**Alex Wang**, William L. Hamilton, Jure Leskovec. <br/>
-NLP+CSS Workshop @ EMNLP 2016. <br/>
+**Alex Wang**, William L. Hamilton, Jure Leskovec <br/>
+NLP+CSS Workshop @ EMNLP 2016 <br/>
 \[[paper](https://arxiv.org/abs/1804.07461)\]
 
 ### Other Projects
