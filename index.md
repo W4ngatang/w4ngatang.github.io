@@ -23,6 +23,16 @@ Please don't hesitate to reach out!
 ACL 2019 <br/>
 \[[paper](https://arxiv.org/abs/1812.10860)\] \[[code](TODO)\]
 
+**SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems** <br/>
+**Alex Wang**, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman <br/>
+arXiv preprint <br/>
+\[[paper](https://arxiv.org/abs/1905.00537)\] \[[site](super.gluebenchmark.com)\]
+
+**A Generalized Framework of Sequence Geenration with Application to Undirected Sequence Models** <br/>
+Elman Mansimov, **Alex Wang**, Kyunghyun Cho <br/>
+arXiv preprint <br/>
+\[[paper](https://arxiv.org/abs/1905.12790)\] \[[code](https://github.com/nyu-dl/dl4mt-seqgen)\]
+
 **Bert has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model** <br/>
 **Alex Wang**, Kyunghyun Cho <br/>
 NeuralGen 2019 <br/>
@@ -31,7 +41,7 @@ NeuralGen 2019 <br/>
 **Probing What Different NLP Tasks Teach Machines about Function Word Comprehension** <br/>
 Najoung Kim, Roma Patel, Adam Poliak, **Alex Wang**, Patrick Xia, R. Thomas McCoy, Ian Tenney, Alexis Ross, Tal Linzen, Benjamin Van Durme, Sameul R. Bowman, Ellie Pavlick <br/>
 StarSem 2019 (Best Paper Award) <br/>
-\[[paper]()\] \[[code]()\]
+\[[paper](https://www.aclweb.org/anthology/S19-1026)\] \[[code](https://github.com/nyu-mll/jiant)\]
 
 **On Measuring Social Biases in Sentence Encoders** <br/>
 Chandler May, **Alex Wang**, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger <br/>
@@ -46,7 +56,7 @@ ICLR 2019 <br/>
 **What do you learn from context? Probing for sentence structure in contextualized word representations** <br/>
 Ian Tenney, Patrick Xia, Berlin Chen, **Alex Wang**, Adam Poliak, Benjamin Van Durme, Sam Bowman, Dipanjan Das, Ellie Pavlick <br/>
 ICLR 2019 <br/>
-\[[paper](https://openreview.net/forum?id=SJzSgnRcKX)\]
+\[[paper](https://openreview.net/forum?id=SJzSgnRcKX)\] \[[code](https://github.com/nyu-mll/jiant/tree/master/probing)\]
 
 **Learning Linguistic Descriptors of User Roles in Online Communities** <br/>
 **Alex Wang**, William L. Hamilton, Jure Leskovec <br/>
