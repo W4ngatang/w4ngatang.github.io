@@ -40,7 +40,7 @@ NeuralGen 2019 <br/>
 
 **Probing What Different NLP Tasks Teach Machines about Function Word Comprehension** <br/>
 Najoung Kim, Roma Patel, Adam Poliak, **Alex Wang**, Patrick Xia, R. Thomas McCoy, Ian Tenney, Alexis Ross, Tal Linzen, Benjamin Van Durme, Sameul R. Bowman, Ellie Pavlick <br/>
-StarSem 2019 (Best Paper Award) <br/>
+StarSem 2019 (**Best Paper Award**) <br/>
 \[[paper](https://www.aclweb.org/anthology/S19-1026)\] \[[code](https://github.com/nyu-mll/jiant)\]
 
 **On Measuring Social Biases in Sentence Encoders** <br/>
