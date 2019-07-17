@@ -28,7 +28,7 @@ ACL 2019 <br/>
 arXiv preprint <br/>
 \[[paper](https://arxiv.org/abs/1905.00537)\] \[[site](super.gluebenchmark.com)\]
 
-**A Generalized Framework of Sequence Geenration with Application to Undirected Sequence Models** <br/>
+**A Generalized Framework of Sequence Generation with Application to Undirected Sequence Models** <br/>
 Elman Mansimov, **Alex Wang**, Kyunghyun Cho <br/>
 arXiv preprint <br/>
 \[[paper](https://arxiv.org/abs/1905.12790)\] \[[code](https://github.com/nyu-dl/dl4mt-seqgen)\]
