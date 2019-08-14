@@ -21,7 +21,7 @@ Please don't hesitate to reach out!
 **Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling** <br/>
 **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman <br/>
 ACL 2019 <br/>
-\[[paper](https://arxiv.org/abs/1812.10860)\] \[[code](TODO)\]
+\[[paper](https://arxiv.org/abs/1812.10860)\] \[[code](TODO)\] \[[poster](https://w4ngatang.github.io/static/posters/sesame-street-acl-poster.pdf)\]
 
 **SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems** <br/>
 **Alex Wang**, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman <br/>
