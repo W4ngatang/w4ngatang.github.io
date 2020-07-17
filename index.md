@@ -23,6 +23,11 @@ Yada Pruksachatkun, Phil Yeres, Haokun Liu, Jason Phang, Phu Mon Htut, **Alex Wa
 ACL 2020 (demo) <br/>
 \[[paper](https://arxiv.org/abs/2003.02249)\] \[[site](https://jiant.info/)\]
 
+**A Generalized Framework of Sequence Generation with Application to Undirected Sequence Models** <br/>
+Elman Mansimov, **Alex Wang**, Sean Welleck, Kyunghyun Cho <br/>
+arXiv preprint <br/>
+\[[paper](https://arxiv.org/abs/1905.12790)\] \[[code](https://github.com/nyu-dl/dl4mt-seqgen)\]
+
 **SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems** <br/>
 **Alex Wang**, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman <br/>
 NeurIPS 2020 <br/>
@@ -32,11 +37,6 @@ NeurIPS 2020 <br/>
 **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman <br/>
 ACL 2019 <br/>
 \[[paper](https://arxiv.org/abs/1812.10860)\] \[[code](https://github.com/nyu-mll/jiant/releases/tag/r2)\]
-
-**A Generalized Framework of Sequence Generation with Application to Undirected Sequence Models** <br/>
-Elman Mansimov, **Alex Wang**, Sean Welleck, Kyunghyun Cho <br/>
-arXiv preprint <br/>
-\[[paper](https://arxiv.org/abs/1905.12790)\] \[[code](https://github.com/nyu-dl/dl4mt-seqgen)\]
 
 **Bert has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model** <br/>
 **Alex Wang**, Kyunghyun Cho <br/>
