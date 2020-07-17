@@ -30,7 +30,7 @@ arXiv preprint <br/>
 
 **SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems** <br/>
 **Alex Wang**, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman <br/>
-NeurIPS 2020 <br/>
+NeurIPS 2019 <br/>
 \[[paper](https://arxiv.org/abs/1905.00537)\] \[[site](super.gluebenchmark.com)\]
 
 **Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling** <br/>
