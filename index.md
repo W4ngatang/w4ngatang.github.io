@@ -8,28 +8,33 @@ I am a PhD student at New York University studying computer science, focusing on
 I am jointly advised by Professors [Sam Bowman](https://www.nyu.edu/projects/bowman/) and [Kyunghyun Cho](http://www.kyunghyuncho.me/), and am part of the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group at NYU.
 I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science, where I was advised by [Alexander Rush](http://nlp.seas.harvard.edu/rush.html) and spent time with the [Harvard Natural Language Processing](http://nlp.seas.harvard.edu/) group.
 See my [CV](/static/CV.pdf), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ), [GitHub](https://github.com/W4ngatang) for more details.
-If you need to contact me, email me at wangalexc _at_ gmail or message me on [Twitter](https://twitter.com/W4ngatang).
+If you need to contact me, send me a message at wangalexc _at_ gmail or on [Twitter](https://twitter.com/W4ngatang).
 
-### News
-
-We are currently soliciting feedback (especially proposals of tasks to include, but also comments and concerns) for the next version of GLUE.
-More details [here](https://docs.google.com/document/d/1y5Yc5tTumKw-3Rt6Sb_ESh_JUjPu28iTL9Fat-uNb-4).
-Please don't hesitate to reach out!
 
 ### Papers
+
+**Asking and Answering Questions to Evaluate the Factual Consistency of Summaries** <br/>
+**Alex Wang**, Kyunghyun Cho, Mike Lewis <br/>
+ACL 2020 <br/>
+\[[paper](https://arxiv.org/abs/2004.04228)\] \[[code](https://github.com/w4ngatang/qags)\]
+
+**jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models** <br/>
+Yada Pruksachatkun, Phil Yeres, Haokun Liu, Jason Phang, Phu Mon Htut, **Alex Wang**, Ian Tenney, Samuel R. Bowman <br/>
+ACL 2020 (demo) <br/>
+\[[paper](https://arxiv.org/abs/2003.02249)\] \[[site](https://jiant.info/)\]
+
+**SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems** <br/>
+**Alex Wang**, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman <br/>
+NeurIPS 2020 <br/>
+\[[paper](https://arxiv.org/abs/1905.00537)\] \[[site](super.gluebenchmark.com)\]
 
 **Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling** <br/>
 **Alex Wang**, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman <br/>
 ACL 2019 <br/>
-\[[paper](https://arxiv.org/abs/1812.10860)\] \[[code](TODO)\]
-
-**SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems** <br/>
-**Alex Wang**, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, Samuel R. Bowman <br/>
-arXiv preprint <br/>
-\[[paper](https://arxiv.org/abs/1905.00537)\] \[[site](super.gluebenchmark.com)\]
+\[[paper](https://arxiv.org/abs/1812.10860)\] \[[code](https://github.com/nyu-mll/jiant/releases/tag/r2)\]
 
 **A Generalized Framework of Sequence Generation with Application to Undirected Sequence Models** <br/>
-Elman Mansimov, **Alex Wang**, Kyunghyun Cho <br/>
+Elman Mansimov, **Alex Wang**, Sean Welleck, Kyunghyun Cho <br/>
 arXiv preprint <br/>
 \[[paper](https://arxiv.org/abs/1905.12790)\] \[[code](https://github.com/nyu-dl/dl4mt-seqgen)\]
 
