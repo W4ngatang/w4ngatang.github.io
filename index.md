@@ -9,6 +9,7 @@ I am jointly advised by Professors [Sam Bowman](https://www.nyu.edu/projects/bow
 I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science, where I was advised by [Alexander Rush](http://nlp.seas.harvard.edu/rush.html) and spent time with the [Harvard Natural Language Processing](http://nlp.seas.harvard.edu/) group.
 See my [CV](/static/CV.pdf), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ), [GitHub](https://github.com/W4ngatang) for more details.
 If you need to contact me, send me a message at wangalexc _at_ gmail or on [Twitter](https://twitter.com/W4ngatang).
+If you aren't sure you have the right Alex Wang, try [this directory](https://www.cs.cmu.edu/~alw1/disambiguation.html).
 
 
 ### Papers
