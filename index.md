@@ -14,6 +14,16 @@ If you aren't sure you have the right Alex Wang, try [this directory](https://ww
 
 ### Papers
 
+**QuestEval: Summarization Asks for Fact-Based Evaluation.** <br/>
+Thomas Scialom, Paul-Alexis Dray, Patrick Gallinari, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano, **Alex Wang** <br/>
+arXiv preprint <br/>
+\[[paper](https://arxiv.org/abs/2103.12693)\]
+
+**Label Representations in Modeling Classification as Text Generation** <br/>
+Xinyi Chen, Jiangxian Xu, **Alex Wang**<br/>
+AACL-IJCNLP SRW 2020 (**Best Paper Award Runner-Up**). <br/>
+\[[paper](https://www.aclweb.org/anthology/2020.aacl-srw.23/)\]
+
 **Asking and Answering Questions to Evaluate the Factual Consistency of Summaries** <br/>
 **Alex Wang**, Kyunghyun Cho, Mike Lewis <br/>
 ACL 2020 <br/>
