@@ -81,6 +81,7 @@ NLP+CSS Workshop @ EMNLP 2016 <br/>
 
 ### Other Projects
 
+- [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2021/): formerly NYC AI Workshop, the NYU AI School is a free introductory workshop on machine learning organized by students and faculty from the NYU ML<sup>2</sub> lab. The workshop is designed for early undergraduate students and features a week of lectures from experts in the field and hands-on coding experience. For more info see [here](https://nyudatascience.medium.com/cds-members-organize-and-present-at-the-nyu-ai-school-1db8464bf504).
 - [A Neural Framework for One-Shot Learning](https://github.com/W4ngatang/MatchingNets): thorough examination in the use of [matching networks](https://arxiv.org/abs/1606.04080), a neural network and nonparametric model hybrid, for one-shot learning in various settings. See [paper](/static/papers/thesis.pdf) for more details. Completed for my senior thesis, earning high honors.
 - [Traffic Swarm Optimization](https://github.com/W4ngatang/TrafficSwarmOptimization): investigation in the use of swarm optimization methods for optimizing traffic light cycles. For more info see this [article](https://www.seas.harvard.edu/news/2016/06/ants-go-marching-on-to-optimize-traffic-lights) or this [writeup](/static/papers/swarm-optimization-traffic.pdf).
 - [Gaussian Processes for Crime Prediction](https://github.com/kandluis/crime-prediction): an exploration into the use of Gaussian processes to predict future crime rates in cities. See the [writeup](/static/papers/gaussian-processes-crime.pdf) for details.
