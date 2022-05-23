@@ -17,7 +17,7 @@ If you aren't sure you have the right Alex Wang, try [this directory](https://ww
 **SQuALITY: Building a Long-Document Summarization Dataset the Hard Way** <br/>
 **Alex Wang**, Richard Yuanzhe Pang, Angelica Chen, Jason Phang, Samuel R. Bowman <br/>
 arXiv preprint <br/>
-\[[paper](w4ngatang.github.io/static/papers/squality.pdf)\] \[[code](https://github.com/nyu-mll/SQuALITY)\]
+\[[paper](https://w4ngatang.github.io/static/papers/squality.pdf)\] \[[code](https://github.com/nyu-mll/SQuALITY)\]
 
 
 **QuestEval: Summarization Asks for Fact-Based Evaluation.** <br/>
