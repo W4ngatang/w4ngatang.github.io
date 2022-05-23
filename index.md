@@ -4,7 +4,7 @@ title: Alex Wang
 use-site-title: true
 ---
 
-I am a PhD student at New York University studying computer science, focusing on machine learning for natural language.
+I am a recently graduated PhD student from New York University studying computer science, focusing on machine learning for natural language.
 I am jointly advised by Professors [Sam Bowman](https://www.nyu.edu/projects/bowman/) and [Kyunghyun Cho](http://www.kyunghyuncho.me/), and am part of the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group at NYU.
 I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science, where I was advised by [Alexander Rush](http://nlp.seas.harvard.edu/rush.html) and spent time with the [Harvard Natural Language Processing](http://nlp.seas.harvard.edu/) group.
 See my [CV](/static/CV.pdf), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ), [GitHub](https://github.com/W4ngatang) for more details.
@@ -14,9 +14,15 @@ If you aren't sure you have the right Alex Wang, try [this directory](https://ww
 
 ### Papers
 
+**SQuALITY: Building a Long-Document Summarization Dataset the Hard Way** <br/>
+**Alex Wang**, Richard Yuanzhe Pang, Angelica Chen, Jason Phang, Samuel R. Bowman <br/>
+arXiv preprint <br/>
+\[[paper](w4ngatang.github.io/static/papers/squality.pdf)\] \[[code](https://github.com/nyu-mll/SQuALITY)\]
+
+
 **QuestEval: Summarization Asks for Fact-Based Evaluation.** <br/>
 Thomas Scialom, Paul-Alexis Dray, Patrick Gallinari, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano, **Alex Wang** <br/>
-arXiv preprint <br/>
+EMNLP 2022 <br/>
 \[[paper](https://arxiv.org/abs/2103.12693)\]
 
 **Label Representations in Modeling Classification as Text Generation** <br/>
