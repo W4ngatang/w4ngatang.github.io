@@ -5,15 +5,14 @@ use-site-title: true
 ---
 
 I work on machine learning at [Cohere](https://cohere.ai/).
-
-
+<br/><br/>
 
 I recently graduated with a PhD in computer science from New York University, focusing on machine learning and NLP.
 I was jointly advised by Professors [Sam Bowman](https://www.nyu.edu/projects/bowman/) and [Kyunghyun Cho](http://www.kyunghyuncho.me/), and was part of the [Machine Learning for Language](https://wp.nyu.edu/ml2/) group at NYU.
 My dissertation is available [here](/static/papers/dissertation.pdf).
 Previously, I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science, where I was advised by [Alexander Rush](http://nlp.seas.harvard.edu/rush.html) and spent time with the [Harvard Natural Language Processing](http://nlp.seas.harvard.edu/) group.
 See my [CV](/static/CV.pdf), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ), [GitHub](https://github.com/W4ngatang) for more details.
-
+<br/><br/>
 
 
 If you need to contact me, send me a message at wangalexc _at_ gmail or on [Twitter](https://twitter.com/W4ngatang).
