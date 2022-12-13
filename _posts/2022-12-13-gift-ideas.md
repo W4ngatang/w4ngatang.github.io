@@ -15,6 +15,6 @@ A good gift is hard to find, especially for me.
 ## Wishlists
 
 * [Steam](https://store.steampowered.com/wishlist/id/w4ngatang/)
-* [DekuDeals](https://www.dekudeals.com/dekudeals.com/wishlist/qb6ntvjcfc)
+* [DekuDeals](https://www.dekudeals.com/wishlist/qb6ntvjcfc)
 * [BoardGameGeek](https://boardgamegeek.com/wishlist/w4ngatang)
 
