@@ -1,16 +1,39 @@
 ---
 layout: post
-title: Buying Gifts for Me
+title: Buying Gifts for Alex
 tags: []
 ---
 
-# Gift Ideas
-
 Last updated: 12/13/22
 
+
+# Gift Ideas
+
 A good gift is hard to find, especially for me.
+Generally if I want something, I'll buy it for myself.
+
+My general philosophy for gifts is to get something that the person doesn't know about but I know they would enjoy, or get something that person knows of and would enjoy, but would never get for themselves.
+That philosophy would work well in buying gifts for me.
+
+## Random Things
+
+* (physical) soundboard
+* adjustable dumbbell / weight
+* lawn games, e.g. bocce, especially if they are not really big and hard to store / transport
+* MTG
+    * gift bundles are totally great
+    * unique and good draft boxes
+    * fancy: commissioned alters of my favorite cards
+
 
 ## Experiences
+
+I am generally in favor of experiential gifts because I have too much stuff.
+
+* unique shows, performances, etc. Some examples: Batsu, Too Much Light Blinds the Baby
+* coaching: basketball
+* classes: cooking, mixology/bartending
+
 
 ## Wishlists
 
