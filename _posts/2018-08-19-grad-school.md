@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Buying Gifts for Alex
-tags: 
+title: Applying to Grad School
+tags: [grad-school]
 ---
 
 # Who This Post is For 

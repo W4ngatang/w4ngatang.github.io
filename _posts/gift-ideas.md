@@ -1,3 +1,9 @@
+---
+layout: post
+title: Buying Gifts for Me
+tags: []
+---
+
 # Gift Ideas
 
 Last updated: 12/13/22
