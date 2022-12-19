@@ -4,7 +4,7 @@ title: Buying Gifts for Alex
 tags: []
 ---
 
-Last updated: 12/13/22
+Last updated: 12/19/22
 
 
 # Gift Ideas
@@ -20,6 +20,8 @@ That philosophy would work well in buying gifts for me.
 * (physical) soundboard
 * adjustable dumbbell / weight
 * lawn games, e.g. bocce, especially if they are not really big and hard to store / transport
+* Sony wH1000XM4, ideally the blue variant
+* Pixel 7 phone stand + charger
 * MTG
     * gift bundles are totally great
     * unique and good draft boxes
@@ -41,3 +43,7 @@ I am generally in favor of experiential gifts because I have too much stuff.
 * [DekuDeals](https://www.dekudeals.com/wishlist/qb6ntvjcfc)
 * [BoardGameGeek](https://boardgamegeek.com/wishlist/w4ngatang)
 
+
+## Other Gifts Ideas that I Wouldn't Like But Maybe Inspire You
+
+* Subscription boxes
