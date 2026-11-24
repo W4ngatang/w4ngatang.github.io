@@ -9,3 +9,7 @@ Thumbs.db
 ehthumbs.db
 
 *.swp
+
+# bundler
+.bundle
+vendor
