@@ -13,3 +13,5 @@ ehthumbs.db
 # bundler
 .bundle
 vendor
+.wrangler
+node_modules

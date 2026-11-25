@@ -180,6 +180,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - wrangler.jsonc
+  - node_modules
 
 # prose.io config
 prose:
