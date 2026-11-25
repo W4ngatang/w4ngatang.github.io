@@ -1,17 +1,14 @@
-# project
-_site
-.sass-cache
-.vagrant
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# cloudflare
+.wrangler/
 
 # general
 .DS_Store
 Thumbs.db
-ehthumbs.db
-
 *.swp
-
-# bundler
-.bundle
-vendor
-.wrangler
-node_modules

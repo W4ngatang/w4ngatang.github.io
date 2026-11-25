@@ -1,0 +1,36 @@
+---
+import Base from "../layouts/Base.astro";
+import { projects, miscellaneous } from "../data/projects";
+---
+
+<Base title="Projects" description="Projects by Alex Wang.">
+  <h1 class="page-title">Projects</h1>
+
+  <section class="section">
+    <ul class="list">
+      {
+        projects.map((project) => (
+          <li class="project">
+            <a class="project-title" href={project.href}>
+              {project.title}
+            </a>
+            <p set:html={project.description} />
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2 class="label">Miscellaneous</h2>
+    <ul class="list">
+      {
+        miscellaneous.map((item) => (
+          <li>
+            <a href={item.href}>{item.title}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</Base>

@@ -1,0 +1,31 @@
+---
+import type { Paper } from "../data/papers";
+
+interface Props {
+  paper: Paper;
+  /** Show the year next to the venue (off when papers are already grouped by year). */
+  showYear?: boolean;
+}
+
+const { paper, showYear = true } = Astro.props;
+const venue = showYear ? `${paper.venue} ${paper.year}` : paper.venue;
+---
+
+<div class="paper">
+  <div class="paper-title">{paper.title}</div>
+  <div class="authors">
+    {
+      paper.authors.map((author, i) => (
+        <>
+          {author === "Alex Wang" ? <strong>{author}</strong> : author}
+          {i < paper.authors.length - 1 && ", "}
+        </>
+      ))
+    }
+  </div>
+  <div class="meta">
+    <span class="venue">{venue}</span>
+    {paper.award && <span class="award">{paper.award}</span>}
+    {paper.links.map((link) => <a href={link.href}>{link.label}</a>)}
+  </div>
+</div>

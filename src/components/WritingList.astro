@@ -1,0 +1,24 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  posts: CollectionEntry<"writing">[];
+}
+
+const { posts } = Astro.props;
+const fmt = new Intl.DateTimeFormat("en-US", { year: "numeric", month: "short", day: "numeric", timeZone: "UTC" });
+---
+
+<ul class="list">
+  {
+    posts.map((post) => (
+      <li class="entry">
+        <time datetime={post.data.date.toISOString().slice(0, 10)}>{fmt.format(post.data.date)}</time>
+        <div>
+          <a href={`/writing/${post.id}/`}>{post.data.title}</a>
+          {post.data.description && <p class="desc">{post.data.description}</p>}
+        </div>
+      </li>
+    ))
+  }
+</ul>

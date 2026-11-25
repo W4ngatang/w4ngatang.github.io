@@ -1,0 +1,35 @@
+---
+import Base from "../layouts/Base.astro";
+import PaperEntry from "../components/PaperEntry.astro";
+import { papers } from "../data/papers";
+
+const years = [...new Set(papers.map((p) => p.year))].sort((a, b) => b - a);
+---
+
+<Base title="Research" description="Papers by Alex Wang on NLP evaluation, benchmarks and summarization.">
+  <h1 class="page-title">Research</h1>
+
+  <section class="section">
+    <p class="authors">
+      Also on <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=7lSuRloAAAAJ">Google Scholar</a>.
+    </p>
+    <div>
+      {
+        years.map((year) => (
+          <div class="year-group">
+            <div class="year">{year}</div>
+            <ul class="list">
+              {papers
+                .filter((p) => p.year === year)
+                .map((paper) => (
+                  <li>
+                    <PaperEntry paper={paper} showYear={false} />
+                  </li>
+                ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+</Base>

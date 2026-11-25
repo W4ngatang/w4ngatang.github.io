@@ -1,0 +1,47 @@
+---
+import Base from "../layouts/Base.astro";
+import PaperEntry from "../components/PaperEntry.astro";
+import WritingList from "../components/WritingList.astro";
+import { papers } from "../data/papers";
+import { getPosts } from "../lib/writing";
+
+const selected = papers.filter((p) => p.selected);
+const posts = (await getPosts()).slice(0, 3);
+---
+
+<Base>
+  <section class="bio">
+    <p>I work on machine learning at <a href="https://cohere.com/">Cohere</a>.</p>
+    <p>I have a PhD in computer science from New York University, focusing on machine learning and NLP. I was jointly advised by Professors <a href="https://www.nyu.edu/projects/bowman/">Sam Bowman</a> and <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, and was part of the <a href="https://wp.nyu.edu/ml2/">Machine Learning for Language</a> group at NYU. My dissertation is available <a href="/static/papers/dissertation.pdf">here</a>.</p>
+    <p>Before that, I graduated from Harvard University with a bachelor's in applied mathematics and a master's in computer science, where I was advised by <a href="http://nlp.seas.harvard.edu/rush.html">Alexander Rush</a> and spent time with the <a href="http://nlp.seas.harvard.edu/">Harvard NLP</a> group.</p>
+    <p class="aside">To get in touch, email wangalexc at gmail or message me on <a href="https://twitter.com/W4ngatang">Twitter</a>. Not sure you have the right Alex Wang? Try <a href="https://www.cs.cmu.edu/~alw1/disambiguation.html">this directory</a>.</p>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <h2 class="label">Selected papers</h2>
+      <a href="/research/">All papers →</a>
+    </div>
+    <ul class="list">
+      {
+        selected.map((paper) => (
+          <li>
+            <PaperEntry paper={paper} />
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  {
+    posts.length > 0 && (
+      <section class="section">
+        <div class="section-head">
+          <h2 class="label">Writing</h2>
+          <a href="/writing/">All writing →</a>
+        </div>
+        <WritingList posts={posts} />
+      </section>
+    )
+  }
+</Base>
