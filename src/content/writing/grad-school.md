@@ -2,6 +2,7 @@
 description: Notes on deciding where to apply for a PhD in computer science and putting together an application.
 date: 2018-08-19
 title: Applying to Grad School
+draft: true
 tags: [grad-school]
 ---
 

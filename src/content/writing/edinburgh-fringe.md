@@ -1,6 +1,7 @@
 ---
 date: 2024-08-30
 title: Edinburgh Fringe
+draft: true
 tags: []
 ---
 

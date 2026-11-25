@@ -6,6 +6,7 @@ import "@fontsource/ibm-plex-mono/400.css";
 import "@fontsource/ibm-plex-mono/500.css";
 import "../styles/global.css";
 import { site } from "../data/site";
+import { getPosts } from "../lib/writing";
 
 interface Props {
   title?: string;
@@ -17,6 +18,9 @@ const pageTitle = title ? `${title} · ${site.name}` : site.name;
 
 // Highlight the nav item for the current section, e.g. /writing/foo/ -> Writing.
 const path = Astro.url.pathname;
+// Hide the Writing link until at least one post is published.
+const hasPosts = (await getPosts()).length > 0;
+const nav = site.nav.filter((item) => item.href !== "/writing/" || hasPosts);
 const isCurrent = (href: string) => (href === "/" ? path === "/" : path.startsWith(href));
 ---
 
@@ -41,7 +45,7 @@ const isCurrent = (href: string) => (href === "/" ? path === "/" : path.startsWi
         </div>
         <nav class="nav" aria-label="Main">
           {
-            site.nav.map((item) => (
+            nav.map((item) => (
               <a href={item.href} aria-current={isCurrent(item.href) ? "page" : undefined}>
                 {item.label}
               </a>

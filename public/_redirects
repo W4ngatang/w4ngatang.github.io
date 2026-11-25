@@ -3,7 +3,8 @@
 /blog/* /writing/ 301
 /tags /writing/ 301
 /tags.html /writing/ 301
-/2018-08-19-grad-school /writing/grad-school/ 301
-/2018-08-19-grad-school/ /writing/grad-school/ 301
-/2024-08-30-edinburgh-fringe /writing/edinburgh-fringe/ 301
-/2024-08-30-edinburgh-fringe/ /writing/edinburgh-fringe/ 301
+# Old Jekyll post URLs. Point these at /writing/<slug>/ once the posts are published again.
+/2018-08-19-grad-school / 302
+/2018-08-19-grad-school/ / 302
+/2024-08-30-edinburgh-fringe / 302
+/2024-08-30-edinburgh-fringe/ / 302
